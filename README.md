@@ -214,17 +214,6 @@ O indicador calcula a média das diferenças absolutas entre os valores estimado
 A avaliação utiliza uma abordagem cronológica: para cada estimativa, o modelo é treinado apenas com os registros anteriores à leitura avaliada. 
 Dessa forma, o próprio valor que está sendo testado não participa do treinamento daquela estimativa.
 
-### Resultado obtido
-
-- **Estimativas avaliadas:** 22.
-- **MAE:** aproximadamente 0,54 kWh.
-
-O resultado indica que, nas estimativas avaliadas, a diferença absoluta média entre a geração eólica estimada e a geração registrada foi de aproximadamente 0,54 kWh 
-por intervalo.
-
-Esse resultado demonstra um bom ajuste do modelo aos dados simulados disponíveis. Entretanto, a quantidade limitada de registros e as características controladas 
-da base devem ser consideradas na interpretação do indicador.
-
 ---
 
 ## Tomada de decisão e recomendações
