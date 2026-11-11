@@ -270,7 +270,7 @@ Esses indicadores permitem identificar se a geração própria foi suficiente pa
 
 ---
 
-## Resultados da simulação
+##   Resultados da simulação
 
 Na execução da base de dados utilizada, foram obtidos os seguintes resultados:
 
